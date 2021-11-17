@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: banana-service
+  description: Component for Banana service
+  labels: {}
+  annotations:
+    github.com/project-slug: RoadieHQ/monorepo-sample-service
+  tags: 
+    - java
+spec:
+  type: service
+  owner: engineering
+  lifecycle: experimental

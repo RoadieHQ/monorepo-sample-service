@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: monorepo-sample-service
+spec:
+  type: url
+  targets:
+    - ./sample-services/pricing-service/index.yaml
+    - ./sample-services/banana-service/index.yaml
