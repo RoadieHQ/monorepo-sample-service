@@ -5,5 +5,5 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/RoadieHQ/monorepo-sample-service/blob/master/backstage-stuff/pricing-index.yaml
-    - https://github.com/RoadieHQ/monorepo-sample-service/blob/master/backstage-stuff/banana-index.yaml
+    - https://github.com/RoadieHQ/monorepo-sample-service/blob/main/backstage-stuff/pricing-index.yaml
+    - https://github.com/RoadieHQ/monorepo-sample-service/blob/main/backstage-stuff/banana-index.yaml
