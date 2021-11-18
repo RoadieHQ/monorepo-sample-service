@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-9
+  title: Service 9
+  description: Component for Backstage 9
+  annotations:
+    github.com/project-slug: RoadieHQ/monorepo-sample-service
+spec:
+  type: service
+  owner: engineering
+  lifecycle: experimental

@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-15
+  title: Service 15
+  description: Component for Backstage 15
+  annotations:
+    github.com/project-slug: RoadieHQ/monorepo-sample-service
+spec:
+  type: service
+  owner: engineering
+  lifecycle: experimental

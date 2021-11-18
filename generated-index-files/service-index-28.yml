@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-28
+  title: Service 28
+  description: Component for Backstage 28
+  annotations:
+    github.com/project-slug: RoadieHQ/monorepo-sample-service
+spec:
+  type: service
+  owner: engineering
+  lifecycle: experimental

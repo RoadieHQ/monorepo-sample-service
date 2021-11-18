@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-62
+  title: Service 62
+  description: Component for Backstage 62
+  annotations:
+    github.com/project-slug: RoadieHQ/monorepo-sample-service
+spec:
+  type: service
+  owner: engineering
+  lifecycle: experimental
