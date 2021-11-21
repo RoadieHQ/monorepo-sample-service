@@ -2,12 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: banana-service
+  title: Banana service
   description: Component for Banana service
-  labels: {}
   annotations:
     github.com/project-slug: RoadieHQ/monorepo-sample-service
+    pagerduty.com/integration-key: 600cb2eee7ab4409d0f8e630d727bdda
   tags: 
-    - java
+    - nodejs
 spec:
   type: service
   owner: engineering
