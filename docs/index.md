@@ -1,1 +1,0 @@
-# The Monorepo sample service
