@@ -1,0 +1,4 @@
+site_name: Pricing Service
+
+nav:
+  - Home: index.md

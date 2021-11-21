@@ -1,0 +1,4 @@
+site_name: Banana Service
+
+nav:
+  - Home: index.md

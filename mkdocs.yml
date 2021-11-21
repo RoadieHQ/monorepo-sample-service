@@ -1,0 +1,11 @@
+site_name: Monorepo Sample Service
+
+nav:
+  - Home: index.md
+  - Subdirectory docs:
+    - pricing-service: '!include ./services/pricing-service/mkdocs.yml'
+    - banana-service: '!include ./services/banana-service/mkdocs.yml'
+
+plugins:
+  - monorepo
+  - techdocs-core
