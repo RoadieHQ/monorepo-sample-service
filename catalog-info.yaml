@@ -6,5 +6,5 @@ metadata:
 spec:
   type: url
   targets:
-    - ./services/pricing-service/index.yaml
-    - ./services/banana-service/index.yaml
+    - ./services/pricing-service/backstage.yaml
+    - ./services/banana-service/backstage.yaml
