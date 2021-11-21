@@ -7,6 +7,7 @@ metadata:
   annotations:
     github.com/project-slug: RoadieHQ/monorepo-sample-service
     pagerduty.com/integration-key: 08984d6e8057460dd053d4014e66022e
+    backstage.io/techdocs-ref: dir:.
   tags: 
     - nodejs
 spec:
