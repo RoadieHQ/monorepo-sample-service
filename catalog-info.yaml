@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: monorepo-sample-service
+  name: sample-split-monorepo
 spec:
   type: url
   targets:
