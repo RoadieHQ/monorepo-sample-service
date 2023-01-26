@@ -6,7 +6,6 @@ metadata:
   description: Component for Pricing service
   annotations:
     github.com/project-slug: RoadieHQ/sample-split-monorepo
-    pagerduty.com/integration-key: 08984d6e8057460dd053d4014e66022e
     backstage.io/techdocs-ref: dir:.
   tags: 
     - nodejs
